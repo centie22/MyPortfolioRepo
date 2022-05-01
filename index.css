@@ -94,7 +94,7 @@ a {
         width: 100%;
     }
     .image-div {
-    left: 40% ;
+    /* left: 40% ; */
     }
     .container {
         display: block;
