@@ -116,4 +116,7 @@ a {
         width: 100%;
         font-size: smaller;
     }
+    .footer h3 {
+        font-size: smaller ;
+    }
 }
